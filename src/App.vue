@@ -1,10 +1,8 @@
 <template>
-  <h1>Hello world!</h1>
+  <app-server-servers></app-server-servers>
 </template>
 
 <script>
-  export default {
-  }
 </script>
 
 <style>
